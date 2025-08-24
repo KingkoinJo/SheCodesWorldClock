@@ -6,8 +6,10 @@ h1 {
 }
 footer {
   text-align: center;
+  width: 600px;
+  max-width: 600px;
   margin: 0 auto;
-  font-size: 18px;
+  font-size: 16px;
   color: rgba(0, 0, 0, 0.7);
 }
 footer a {
