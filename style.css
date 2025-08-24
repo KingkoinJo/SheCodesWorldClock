@@ -6,6 +6,7 @@ h1 {
 }
 footer {
   text-align: center;
+  margin: 0 auto;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.7);
 }
