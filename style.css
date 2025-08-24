@@ -1,6 +1,50 @@
+body {
+  background-color: rgb(234, 238, 243);
+}
 h1 {
   text-align: center;
 }
 footer {
   text-align: center;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.7);
+}
+footer a {
+  color: blueviolet;
+  font-weight: 500;
+}
+.container {
+  background-color: white;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+  margin: 40px auto;
+  width: 600px;
+  max-width: 600px;
+  padding: 20px;
+}
+#select-city {
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+}
+.city {
+  border-bottom: 1px solid rgba(145, 143, 143, 0.5);
+}
+.city,
+.city-bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+.time {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+#city-name {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  font-weight: 700;
 }
