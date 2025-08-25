@@ -13,6 +13,14 @@ footer a {
   color: blueviolet;
   font-weight: 500;
 }
+.home a{
+  text-align: center;
+  width: fit-content;
+  display:block;
+  font-size: 13px;
+  margin: 5px;
+  color: rgba(0, 0, 0, 0.2);
+}
 .container {
   background-color: white;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
@@ -40,14 +48,13 @@ footer a {
 }
 
 .time {
-  display: flex;
   font-size: 40px;
   font-weight: 500;
 }
 .time small {
   font-size: 20px;
-  margin-top: 12px;
   margin-left: 5px;
+  vertical-align: middle;
 }
 
 #city-name {
