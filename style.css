@@ -9,7 +9,7 @@ footer {
   width: 600px;
   max-width: 600px;
   margin: 0 auto;
-  font-size: 16px;
+  font-size: 17px;
   color: rgba(0, 0, 0, 0.7);
 }
 footer a {
@@ -48,7 +48,7 @@ footer a {
 }
 .time small {
   font-size: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-left: 5px;
 }
 
